@@ -1,0 +1,8 @@
+<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.6.2/jquery.min.js"></script>
+<link rel="stylesheet" href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/black-tie/jquery-ui.css" type="text/css" />
+<link rel="stylesheet" href="http://natalie.gibsonandlily.com/styles/jquery.superbox.css" type="text/css" media="all" /> 
+<script src='http://natalie.gibsonandlily.com/javascript/jquery.superbox.js'></script>
+<script src='http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.2/jquery-ui.min.js'></script>
+<link href='http://fonts.googleapis.com/css?family=Arvo' rel='stylesheet' type='text/css'>
+<link href='http://fonts.googleapis.com/css?family=PT+Sans' rel='stylesheet' type='text/css'>
+<script type="text/javascript" src="http://natalie.gibsonandlily.com/javascript/sprintf-0.7.js"></script>
