@@ -1,14 +1,14 @@
-function init() {
-	}
-
-
 //fetch an external json
+var json_data;
 function load_json(url) {
-	$.post("url", function(data) {
-		some_data = data["some_data"];
+	console.log(url);
+	$.post(url, function(data) {
+		set(data);
+		//console.log(data["thing"]);
+		//var my_data = data;
 		//do something with it
 		//document.getElementById("body_text").value=latest_post;
-	})
+	});
 }
 
 function modal(url,height,width)
